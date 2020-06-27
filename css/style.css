@@ -2085,7 +2085,7 @@ h3 {
 .portfolio_area .more_works a {
   font-size: 20px;
   font-family: "Alata", sans-serif;
-  color: #fff;
+  color: #000;
   font-weight: 400;
 }
 
@@ -2385,7 +2385,7 @@ h3 {
 .footer .footer_top .footer_widget .footer_title {
   font-size: 20px;
   font-weight: 400;
-  color: #fff;
+  color: #000;
   text-transform: capitalize;
   margin-bottom: 40px;
   font-family: "Alata", sans-serif;
